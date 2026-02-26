@@ -1,0 +1,5 @@
+{
+  "name": "ContactSync & WhatsApp Group Tool",
+  "description": "A professional tool to manage contacts in a spreadsheet, sync them to your mobile device via vCard, and facilitate WhatsApp group creation.",
+  "requestFramePermissions": []
+}
